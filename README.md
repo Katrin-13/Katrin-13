@@ -1,3 +1,19 @@
+<div id="header" align="center"> 
+  <h1>Привет, Меня зовут Екатерина.</h1>
+</div>
+<p align='center'>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   email: <a href='mailto:katrin-13inbox@yandex.ru'>katrin-13inbox@yandex.ru</a>
+</p>
+  
+
+  
+## Резюме
+
+## Обучение
 
 
 <!--
