@@ -18,6 +18,15 @@
 
 ## Обучение
 <p>
+  Дипом ПП "АНО ДПО "образовательные технологии Яндекса": по программе "Аналитик данных" <a href='https://github.com/Katrin-13/Katrin-13/blob/ecde62c2ce02f89e01a94ebbd44668066077fc7c/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%AF%D0%9F%20RU.pdf'> RU</a>
+  <a href='https://github.com/Katrin-13/Katrin-13/blob/ecde62c2ce02f89e01a94ebbd44668066077fc7c/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%AF%D0%9F%20EN.pdf'> EN</a>
+</p>
+
+<p>
+  Сертификат Mathshub SQL <a href='https://github.com/Katrin-13/Katrin-13/blob/ecde62c2ce02f89e01a94ebbd44668066077fc7c/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Mathshub.pdf'> SQL</a>
+</p>
+
+<p>
    Диплом "НОУ СПО техникум туризма и менеджмента": специальность <a href='https://github.com/Katrin-13/Katrin-13/blob/0fbb06925b3d8fd0bd2ba0bb39b93cdf34b47122/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%D0%B0.jpeg'> "Менеджмент"</a>
 </p>
 
