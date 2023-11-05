@@ -38,6 +38,9 @@
 МНиВО РФ ГБОУ ВО" Московский государственный университет технологий и управления имени К.Г. Разумовского (ПКУ)": специальность <a href='https://github.com/Katrin-13/Katrin-13/blob/945f475ef6367f682e99667d110201076eaa5a36/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%9F%D0%9F.jpeg'> "Управление персоналом и кадровое администрирование"</a>
 </p>
 
+## Навыки
+
+
 
 <!--
 **Katrin-13/Katrin-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
